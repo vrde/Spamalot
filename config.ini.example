@@ -1,0 +1,15 @@
+[mailer]
+sender = Teh Sender <root@yoursite.com>
+host = localhost            # default is localhost
+port = 25                   # default is 25
+username = smtp_username    # default is None
+password = smtp_password    # default is None
+timeout = 5                 # default is 10
+attempts = 2                # default is 1
+encoding = iso-8859-1       # default is iso-8859-15)
+
+[logging]
+outfile = mailer.log        # default is None
+mode = w                    # default is a+
+level = CRITICAL            # default is INFO
+

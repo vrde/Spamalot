@@ -1,0 +1,19 @@
+= Intro
+Spamalot is a simple module to send email using the Python Standard Library
+(plus a little magic of ConfigObj).
+
+The module works fine with different kind of encodings.
+
+= Usage
+with no config:
+
+>>> from spamalot import init_mailer, Message, send
+>>> init_mailer()
+>>> m = Message('recipient@example.com', 'developers*3!', 'plain message',
+...     '<p>html message</p>', sender='Steve Ballmer <steve@example.org>')
+>>> send(m)
+True
+
+= Config & Logging
+Take a look to the config.ini.example.
+

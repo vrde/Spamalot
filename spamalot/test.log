@@ -1,0 +1,60 @@
+2010-05-12 06:32:11,307 spamalot INFO     spamalot initialised
+2010-05-12 06:32:11,609 spamalot DEBUG    connected to localhost
+2010-05-12 06:32:11,610 spamalot DEBUG    trying to email foo@bar.com
+2010-05-12 06:32:11,665 spamalot INFO     message sent to foo@bar.com
+2010-05-12 06:32:11,666 spamalot DEBUG    disconnected to localhost
+2010-05-12 06:32:11,679 spamalot DEBUG    connected to localhost
+2010-05-12 06:32:11,679 spamalot DEBUG    trying to email foo@bar.com
+2010-05-12 06:32:11,687 spamalot INFO     message sent to foo@bar.com
+2010-05-12 06:32:11,688 spamalot DEBUG    disconnected to localhost
+2010-05-12 06:32:11,701 spamalot DEBUG    connected to localhost
+2010-05-12 06:32:11,701 spamalot DEBUG    trying to email foo@bar.com
+2010-05-12 06:32:11,709 spamalot INFO     message sent to foo@bar.com
+2010-05-12 06:32:11,710 spamalot DEBUG    disconnected to localhost
+2010-05-12 06:32:11,722 spamalot DEBUG    connected to localhost
+2010-05-12 06:32:11,722 spamalot DEBUG    trying to email foo@bar.com
+2010-05-12 06:32:11,730 spamalot INFO     message sent to foo@bar.com
+2010-05-12 06:32:11,731 spamalot DEBUG    disconnected to localhost
+2010-05-12 06:32:11,744 spamalot DEBUG    connected to localhost
+2010-05-12 06:32:11,744 spamalot DEBUG    trying to email foo@bar.com
+2010-05-12 06:32:11,752 spamalot INFO     message sent to foo@bar.com
+2010-05-12 06:32:11,753 spamalot DEBUG    disconnected to localhost
+2010-05-12 06:32:11,766 spamalot DEBUG    connected to localhost
+2010-05-12 06:32:11,767 spamalot DEBUG    trying to email foo@bar.com
+2010-05-12 06:32:11,769 spamalot CRITICAL SMTP server refused the sender: (500, '', 'Test <test@localhost>')
+2010-05-12 06:32:11,773 spamalot DEBUG    connected to localhost
+2010-05-12 06:32:11,773 spamalot DEBUG    trying to email foo@bar.com
+2010-05-12 06:32:11,776 spamalot WARNING  SMTP server refused the recipient: {'foo@bar.com': (500, '')}
+2010-05-12 06:32:11,780 spamalot DEBUG    connected to localhost
+2010-05-12 06:32:11,781 spamalot DEBUG    trying to email foo@bar.com
+2010-05-12 06:32:11,783 spamalot CRITICAL SMTP data error: (500, '')
+2010-05-12 06:32:26,407 spamalot INFO     spamalot initialised
+2010-05-12 06:32:26,473 spamalot DEBUG    connected to localhost
+2010-05-12 06:32:26,473 spamalot DEBUG    trying to email foo@bar.com
+2010-05-12 06:32:26,479 spamalot INFO     message sent to foo@bar.com
+2010-05-12 06:32:26,479 spamalot DEBUG    disconnected to localhost
+2010-05-12 06:32:26,484 spamalot DEBUG    connected to localhost
+2010-05-12 06:32:26,484 spamalot DEBUG    trying to email foo@bar.com
+2010-05-12 06:32:26,487 spamalot INFO     message sent to foo@bar.com
+2010-05-12 06:32:26,487 spamalot DEBUG    disconnected to localhost
+2010-05-12 06:32:26,491 spamalot DEBUG    connected to localhost
+2010-05-12 06:32:26,491 spamalot DEBUG    trying to email foo@bar.com
+2010-05-12 06:32:26,494 spamalot INFO     message sent to foo@bar.com
+2010-05-12 06:32:26,495 spamalot DEBUG    disconnected to localhost
+2010-05-12 06:32:26,499 spamalot DEBUG    connected to localhost
+2010-05-12 06:32:26,499 spamalot DEBUG    trying to email foo@bar.com
+2010-05-12 06:32:26,502 spamalot INFO     message sent to foo@bar.com
+2010-05-12 06:32:26,502 spamalot DEBUG    disconnected to localhost
+2010-05-12 06:32:26,506 spamalot DEBUG    connected to localhost
+2010-05-12 06:32:26,507 spamalot DEBUG    trying to email foo@bar.com
+2010-05-12 06:32:26,509 spamalot INFO     message sent to foo@bar.com
+2010-05-12 06:32:26,510 spamalot DEBUG    disconnected to localhost
+2010-05-12 06:32:26,517 spamalot DEBUG    connected to localhost
+2010-05-12 06:32:26,517 spamalot DEBUG    trying to email foo@bar.com
+2010-05-12 06:32:26,519 spamalot CRITICAL SMTP server refused the sender: (500, '', 'Test <test@localhost>')
+2010-05-12 06:32:26,523 spamalot DEBUG    connected to localhost
+2010-05-12 06:32:26,524 spamalot DEBUG    trying to email foo@bar.com
+2010-05-12 06:32:26,526 spamalot WARNING  SMTP server refused the recipient: {'foo@bar.com': (500, '')}
+2010-05-12 06:32:26,530 spamalot DEBUG    connected to localhost
+2010-05-12 06:32:26,530 spamalot DEBUG    trying to email foo@bar.com
+2010-05-12 06:32:26,533 spamalot CRITICAL SMTP data error: (500, '')
